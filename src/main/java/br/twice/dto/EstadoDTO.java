@@ -20,6 +20,11 @@ public record  EstadoDTO(
 }
 
 
+/* herança
+ * testes unitários
+ * validaçaõ
+ */
+
 
 /* - @Pattern
  * - regex - expressão regular, padrão de validação (ex: [0-11]{3} - dois números para cpf)
